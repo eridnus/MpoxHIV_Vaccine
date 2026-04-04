@@ -1,0 +1,37 @@
+To understand the "why" behind the numbers in your Stability_Log and the Stability_Analysis results, we need to look at what each dependent variable represents in the context of vaccine design. These values are the "filters" used to decide which viral proteins are suitable for a chimeric vaccine.
+
+Here is the breakdown of what each variable indicates:
+1. Molecular Weight (MW in kDa)
+
+    Indication: This represents the total mass of the protein.
+
+    Research Context:
+
+        Large Proteins (e.g., Mpox_B5R at 120.74 kDa) are often more complex and difficult to synthesize in laboratory "factories" like E. coli.
+
+        Smaller Proteins (e.g., HIV_p24 at 17.28 kDa) are generally easier to handle and express.
+
+    In your study: This helps you estimate the size of your final vaccine construct once you link these proteins together.
+
+2. GRAVY (Grand Average of Hydropathicity)
+
+    Indication: This score indicates the "water-friendliness" of the protein.
+
+    Positive Score (e.g., HIV_gp41 at 0.87): Indicates the protein is Hydrophobic (fat-loving). These proteins usually sit inside the oily membranes of the virus.
+
+    Negative Score (e.g., HIV_p24 at -0.86): Indicates the protein is Hydrophilic (water-loving).
+
+    Research Context: Vaccine researchers prefer negative GRAVY scores because hydrophilic proteins dissolve easily in the blood and are more accessible to the immune system.
+
+3. Instability Index
+
+    Indication: This is a mathematical prediction of the protein's stability in a test tube.
+
+    The 40.0 Threshold:
+
+        Score < 40: The protein is Stable.
+
+        Score > 40: The protein is Unstable.
+
+    Research Context: In your manuscript, stability is a key selection criterion. An unstable protein might degrade too quickly to trigger a strong immune response, though they can still be used if we only extract the stable "epitopes" (small parts) from them later.
+

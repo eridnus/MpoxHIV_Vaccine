@@ -1,0 +1,424 @@
+>query
+MHHHHHHGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKKEAAAKYVDRFYKTLEAAAKNIKEYVYQLEAAAKFIDSYLQKLEAAAKILLSKRPSLEAAAKATLEEMMTAEAAAKDLDDVPSVVEAAAKKMCTVSDYVEAAAKSIQTTVNTLEAAAKALMQLTTKAEAAAKFIDAANTNIEAAAKTVSDYVSELEAAAKELHPDKWTVEAAAKAQHSIPTNVEAAAKHLDNSIRLMEAAAKSLHQYKWYI
+>tr|A0A7J6ZMV5|A0A7J6ZMV5_9COLE/59-255 [subseq from] Uncharacterized protein OS=Lamprigera yunnana OX=370605 GN=FQA39_LY17537 PE=4 SV=1
+----------------------------------------------------------QDRIELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIV-------
+>tr|A0A7J6ZMV5|A0A7J6ZMV5_9COLE/263-465 [subseq from] Uncharacterized protein OS=Lamprigera yunnana OX=370605 GN=FQA39_LY17537 PE=4 SV=1
+----------------------------------------------------EALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIV-------
+>tr|A0A7J6ZMV5|A0A7J6ZMV5_9COLE/1369-1571 [subseq from] Uncharacterized protein OS=Lamprigera yunnana OX=370605 GN=FQA39_LY17537 PE=4 SV=1
+----------------------------------------------------EALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIV-------
+>tr|A0A7J6ZMV5|A0A7J6ZMV5_9COLE/1565-1766 [subseq from] Uncharacterized protein OS=Lamprigera yunnana OX=370605 GN=FQA39_LY17537 PE=4 SV=1
+----------------------------------------------------EALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKIVENSELVIEALPKI--------
+>tr|A0A210QYI9|A0A210QYI9_MIZYE/19-145 [subseq from] Zinc finger protein 732 OS=Mizuhopecten yessoensis OX=6573 GN=KP79_PYT20994 PE=4 SV=1
+-------------------------------------------------------------------------------------------STCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNS--------------------------------------------
+>tr|A0A210QYI9|A0A210QYI9_MIZYE/609-735 [subseq from] Zinc finger protein 732 OS=Mizuhopecten yessoensis OX=6573 GN=KP79_PYT20994 PE=4 SV=1
+---------------------------------------------------------------------------------------------CEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTC------------------------------------------
+>tr|A0A210QYI9|A0A210QYI9_MIZYE/1220-1342 [subseq from] Zinc finger protein 732 OS=Mizuhopecten yessoensis OX=6573 GN=KP79_PYT20994 PE=4 SV=1
+----------------------------------------------------------------------------------------SDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDNSTCEGCGRVIMSDISTCEGCGRVIMSDISTCEGCGRVVMSDNSTCEGCGRVVMSDNSTCEGCGR---------------------------------------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/85-254 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+---------------------------------------------------------------------------------ALSEPLTDVLNDVDALSESLTDVLSDVDALSESLTDVLIDVDALSDPDTDVLNDVDSLSESLTDVLIDVDALSESLTDVLNDVEALSESLTDVLIDVDSLSEsLIDVLN-DVDALSESLTDVLIDVDTLSDPDTDVLIDVDALSESLTDVLSDVDALSESLTDVLNDVDSL-----------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/224-384 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+--------------------------------------------------------------------------------DALSESLTDVLSDVDALSESLTDVLNDVDSLSESLTDVLSDVDTLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVEALSESLTDVLSDVEALSESLTDVLNDVEALSESLTDVLSDVDALSESLTDVLIDVDTLSDPDTDVLIDVDALSESL---------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/394-523 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+--------------------------------------------------------------------------------------LTDVLND--------------VDALSEPLTDVLNDVDALSESLTDVLSDVDALSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVEALSESLTDVLNDVDSLSESLTDVLSDVDALSESLTDVLNDVDSLSESLTDV--------------------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/525-619 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+-----------------------------------------------------------------------------------------------------------------------CDVDSLSESLTDVLSDVDTLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVDALSESLT------------------------------------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/650-774 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------LIDVDALSESLTDVLSDVDALSESLTDVLNDVDALSESLTDVLNDVDALPESLTDVLNDVDALSESLTDVLNDVDSLSESLTDVLSDVEALSESLTDVLNDVDALSESLTDVLNDVDSLSESLTD-------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/967-1094 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+-----------------------------------------------------------------------------------------------------------------SLTDVLNDVEALSESLTDVLNDVDSLSESLTDVLSDVDALSESLTDVLNDVDSLSESLTDVLIDVEALSESLTDVLSDVDSLSESLTDVLSDVEALSESLTDVLNDVDALSESLTDVLSDVDALSESL---------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/1146-1331 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+--------------------------------------------------------------------LSESLTDVLIDVDSLSESLTDVLNDVDALSESLTDVLNDVEALSDSDTDVLSDVDALSESLTDVLSDVDALSDPDTDVLNDVEALSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLSDVDALSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVDALSESLTDVLNDVDSLSES--------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/1227-1412 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+-----------------------------------------------------------------VEALSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLSDVDALSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVDALSESLTDVLNDVDSLSESLTDVLNDVEALSESLTDVLNDVDALSESLTDVLNDVEALSESLTDVLNDVDALSDSDTDVLNDVDSLSESLTDVLSDVDSL-----------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/1410-1553 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+----------------------------------------------------------------------------------------------DSLSESLTDVLNDVEALSESLTDVLSDVDSLSESLTDVLSDVDALSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLSDVDALSESLTDVLNDVDSLSESLTDVLNDVDALSESLTDVLNDVDSLSESDTDVLIDVDSLS------------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/1614-1723 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+--------------------------------------------------------------------------------------------------------------------DVLNDVEALSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTAVLNDVDALSDSDTDVLNDVEALSESLTDVLNDVDSLSES------------------------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/1740-1866 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+--------------------------------------------------------------------------------------------------------------------DVLSDVDSLSESLTDVLNDVEALSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDIDSLSESLTDVLNDVDSLSESLTDVLSDVDSLSESLTDVLNDVDSLSESLTD-------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/1774-1927 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+------------------------------------------------------------------DSLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLNDIDSLSESLTDVLNDVDSLSESLTDVLSDVDSLSESLTDVLNDVDSLSESLTDVLNDVDSLSESLTDVLSDVDALSESLTDVLSDVEALSESLTDVLNDVDSL--------------SESDTDVLNDV----------------------------
+>tr|A0A1D4K0V7|A0A1D4K0V7_9STAP/1861-1986 [subseq from] Cell wall associated fibronectin-binding protein OS=Staphylococcus caeli OX=2201815 GN=ebh PE=4 SV=1
+-----------------------------------------------------------------------------------------------------------------------------SESLTDVLNDVDSLSESLTDVLSDVDALSESLTDVLSDVEALSESLTDVLNDVDSLSESDTDVLNDVDALSDSDTDVLSDVDSLSESLTDVLIDVDALSESLTDVLNDVDALSESLTDVLNDVDSL-----------
+>tr|Q7PCK4|Q7PCK4_PAPAN/21-67 [subseq from] DEFB103-like protein (Fragment) OS=Papio anubis OX=9555 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>sp|A4H1Z9|D103A_GORGO/21-67 [subseq from] Beta-defensin 103A OS=Gorilla gorilla gorilla OX=9595 GN=DEFB103A PE=3 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>sp|A4H200|D103A_PONPY/21-67 [subseq from] Beta-defensin 103A OS=Pongo pygmaeus OX=9600 GN=DEFB103A PE=3 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>sp|P81534|D103A_HUMAN/21-67 [subseq from] Beta-defensin 103 OS=Homo sapiens OX=9606 GN=DEFB103A PE=1 SV=2
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A0D9RWN4|A0A0D9RWN4_CHLSB/21-67 [subseq from] Uncharacterized protein OS=Chlorocebus sabaeus OX=60711 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K5K965|A0A2K5K965_COLAP/21-67 [subseq from] Beta-defensin 103 OS=Colobus angolensis palliatus OX=336983 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K5NC17|A0A2K5NC17_CERAT/21-67 [subseq from] Beta-defensin 103 OS=Cercocebus atys OX=9531 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K5U8R2|A0A2K5U8R2_MACFA/21-67 [subseq from] Defensin, beta 103 OS=Macaca fascicularis OX=9541 GN=EGM_20429 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K5Z5Q1|A0A2K5Z5Q1_MANLE/21-67 [subseq from] Beta-defensin 103 OS=Mandrillus leucophaeus OX=9568 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K6AZ20|A0A2K6AZ20_MACNE/21-67 [subseq from] Beta-defensin 103 OS=Macaca nemestrina OX=9545 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K6SWL3|A0A2K6SWL3_SAIBB/21-67 [subseq from] Uncharacterized protein OS=Saimiri boliviensis boliviensis OX=39432 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6D2Y2L6|A0A6D2Y2L6_PONAB/21-67 [subseq from] DEFB103B isoform 1 OS=Pongo abelii OX=9601 GN=CR201_G0055236 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A894JZ42|A0A894JZ42_HUMAN/21-67 [subseq from] Beta-defensin 3 OS=Homo sapiens OX=9606 PE=2 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|F6SW26|F6SW26_MACMU/21-67 [subseq from] Uncharacterized protein OS=Macaca mulatta OX=9544 GN=LOC694235 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|F6TH10|F6TH10_CALJA/21-67 [subseq from] Uncharacterized protein OS=Callithrix jacchus OX=9483 GN=LOC100407484 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G7N0G4|G7N0G4_MACMU/21-67 [subseq from] Defensin, beta 103 OS=Macaca mulatta OX=9544 GN=EGK_18668 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G8F4I4|G8F4I4_MACFA/21-67 [subseq from] Defensin beta 103A OS=Macaca fascicularis OX=9541 GN=DEFB103A PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|H2PPI1|H2PPI1_PONAB/21-67 [subseq from] Uncharacterized protein OS=Pongo abelii OX=9601 GN=LOC100435661 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|Q5IAC0|Q5IAC0_CHLAE/1-47 [subseq from] Beta defensin 103 (Fragment) OS=Chlorocebus aethiops OX=9534 GN=DEFB103 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|Q5IAC1|Q5IAC1_PONPY/1-47 [subseq from] Beta defensin 103 (Fragment) OS=Pongo pygmaeus OX=9600 GN=DEFB103 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|C7S8D6|C7S8D6_HUMAN/31-77 [subseq from] Beta-defensin-like protein OS=Homo sapiens OX=9606 PE=2 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>sp|Q95JD2|D103A_PANTR/21-67 [subseq from] Beta-defensin 103A OS=Pan troglodytes OX=9598 GN=DEFB103A PE=3 SV=2
+-----HGGIINTLQKYYCRVRGGRCAVLTCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2J8IL67|A0A2J8IL67_PANTR/21-67 [subseq from] DEFB103B isoform 1 OS=Pan troglodytes OX=9598 GN=CK820_G0055747 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLTCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K6LHD4|A0A2K6LHD4_RHIBE/21-67 [subseq from] Uncharacterized protein OS=Rhinopithecus bieti OX=61621 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCALLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K6PL81|A0A2K6PL81_RHIRO/21-67 [subseq from] Uncharacterized protein OS=Rhinopithecus roxellana OX=61622 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCALLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G1QMN3|G1QMN3_NOMLE/29-75 [subseq from] Uncharacterized protein OS=Nomascus leucogenys OX=61853 GN=LOC100596700 PE=4 SV=2
+-----HGGIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K5DTN4|A0A2K5DTN4_AOTNA/21-67 [subseq from] Beta-defensin 103 OS=Aotus nancymaae OX=37293 PE=4 SV=1
+-----HGGIINALQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K5S4M7|A0A2K5S4M7_CEBIM/21-67 [subseq from] Uncharacterized protein OS=Cebus imitator OX=2715852 PE=4 SV=1
+-----HGGIINALQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|Q5U7J2|Q5U7J2_HUMAN/1-45 [subseq from] Beta-defensin 3 (Fragment) OS=Homo sapiens OX=9606 GN=DEFB103A PE=2 SV=1
+-------GIINTLQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6J3HDY4|A0A6J3HDY4_SAPAP/21-67 [subseq from] beta-defensin 103 OS=Sapajus apella OX=9515 GN=LOC116545955 PE=4 SV=1
+-----HGGIINAVQKYYCRVRGGRCAVLSCLPKEEQIGKCSTRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|H0WKK3|H0WKK3_OTOGA/22-67 [subseq from] Uncharacterized protein OS=Otolemur garnettii OX=30611 GN=LOC111722762 PE=4 SV=1
+------GGIINTVQRYYCRIRGGRCAVLSCLPREEQIGRCSSRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A452R2V8|A0A452R2V8_URSAM/20-67 [subseq from] Uncharacterized protein OS=Ursus americanus OX=9643 PE=4 SV=1
+----GHGGIINTLQRYYCRIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A452VLJ8|A0A452VLJ8_URSMA/20-67 [subseq from] Beta-defensin 103-like OS=Ursus maritimus OX=29073 GN=LOC103676927 PE=4 SV=1
+----GHGGIINTLQRYYCRIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|M3XTU5|M3XTU5_MUSPF/21-67 [subseq from] Uncharacterized protein OS=Mustela putorius furo OX=9669 PE=4 SV=1
+-----NGGIVNTLQRYYCRIRSGRCAVLSCLPKEEQIGRCSSSGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6J2DMA6|A0A6J2DMA6_ZALCA/22-67 [subseq from] beta-defensin 103A-like OS=Zalophus californianus OX=9704 GN=LOC113925062 PE=4 SV=1
+------GGIINTLQKYYCRIRSGRCALLSCLPKEEQIGRCSSAGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2U3XXI1|A0A2U3XXI1_LEPWE/22-67 [subseq from] beta-defensin 103-like OS=Leptonychotes weddellii OX=9713 GN=LOC102726710 PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCAVLSCLPKEEQIGRCSSAGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A0K0KPW1|A0A0K0KPW1_CANLF/2-47 [subseq from] Beta-defensin 103 (Fragment) OS=Canis lupus familiaris OX=9615 GN=CBD103 PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSTGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2U3WBG4|A0A2U3WBG4_ODORO/22-67 [subseq from] beta-defensin 4B OS=Odobenus rosmarus divergens OX=9708 GN=DEFB4B PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSAGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3Q7Q8I5|A0A3Q7Q8I5_CALUR/22-67 [subseq from] beta-defensin 103-like OS=Callorhinus ursinus OX=34884 GN=LOC112834780 PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSAGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3Q7TV83|A0A3Q7TV83_VULVU/22-67 [subseq from] beta-defensin 103-like OS=Vulpes vulpes OX=9627 GN=LOC112934480 PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSTGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|Q30KV0|Q30KV0_CANLF/22-67 [subseq from] Beta-defensin 103 OS=Canis lupus familiaris OX=9615 GN=CBD103 PE=2 SV=1
+------GGIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSTGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5E4C6F6|A0A5E4C6F6_MARMO/20-67 [subseq from] Uncharacterized protein OS=Marmota monax OX=9995 GN=GHT09_017887 PE=3 SV=1
+----GHSGIISAVQRYYCRIRGGRCAVLGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A384DBG0|A0A384DBG0_URSMA/74-120 [subseq from] beta-defensin 103-like OS=Ursus maritimus OX=29073 GN=LOC103676927 PE=4 SV=1
+-----HGGIINTLQRYYCRIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3Q7XMR0|A0A3Q7XMR0_URSAR/74-120 [subseq from] beta-defensin 103 OS=Ursus arctos horribilis OX=116960 GN=DEFB103A PE=4 SV=1
+-----HGGIINTLQRYYCRIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2Y9J1G0|A0A2Y9J1G0_ENHLU/22-67 [subseq from] beta-defensin 103A-like OS=Enhydra lutris kenyoni OX=391180 GN=LOC111144388 PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCAVLTCLPKEEQIGRCSSLGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2Y9HDV3|A0A2Y9HDV3_NEOSC/22-67 [subseq from] beta-defensin 103A-like OS=Neomonachus schauinslandi OX=29088 GN=LOC110584252 PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCALLTCLPKEEQIGRCSSAGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A811Z1Y5|A0A811Z1Y5_NYCPR/76-121 [subseq from] (raccoon dog) hypothetical protein OS=Nyctereutes procyonoides OX=34880 GN=NYPRO_LOCUS13521 PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSTGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|J9NU53|J9NU53_CANLF/77-122 [subseq from] Beta-defensin 103 OS=Canis lupus familiaris OX=9615 GN=CBD103 PE=4 SV=1
+------GGIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSTGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A0K0KQM0|A0A0K0KQM0_CANLF/3-47 [subseq from] Beta-defensin 103 (Fragment) OS=Canis lupus familiaris OX=9615 GN=CBD103 PE=4 SV=1
+-------XIINTLQRYYCRIRSGRCALLSCLPKEEQIGRCSSTGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|D2I434|D2I434_AILME/3-48 [subseq from] Uncharacterized protein (Fragment) OS=Ailuropoda melanoleuca OX=9646 GN=PANDA_020325 PE=4 SV=1
+------GGIINTLQRYYCQIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G1M228|G1M228_AILME/22-67 [subseq from] Beta-defensin 103A OS=Ailuropoda melanoleuca OX=9646 GN=LOC100465205 PE=4 SV=1
+------GGIINTLQRYYCQIRGGRCALVSCLPREEQIGRCSSGGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2K6GWG1|A0A2K6GWG1_PROCO/22-67 [subseq from] Uncharacterized protein OS=Propithecus coquereli OX=379532 PE=4 SV=1
+------GGLINTLQRYYCRIRRGRCAVLSCLPREEQIGRCSSSGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G5BMG6|G5BMG6_HETGA/22-67 [subseq from] Beta-defensin 1 OS=Heterocephalus glaber OX=10181 GN=DEFB103B PE=4 SV=1
+------GGLINTVQRYFCRVRGGRCAALTCLPRETQIGHCSVRGRKCCRRRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A671F7B0|A0A671F7B0_RHIFE/22-67 [subseq from] Uncharacterized protein OS=Rhinolophus ferrumequinum OX=59479 PE=4 SV=1
+------GGLINTLQRYFCKIRSGRCAVLSCLPREEHIGSCSVGGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4W2G504|A0A4W2G504_BOBOX/21-68 [subseq from] Uncharacterized protein OS=Bos indicus x Bos taurus OX=30522 PE=4 SV=1
+----HNGSIISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>sp|P83943|DEFB1_CHILA/22-67 [subseq from] Beta-defensin 1 OS=Chinchilla lanigera OX=34839 GN=DEFB1 PE=1 SV=1
+------GGIINTIQRYFCRVRGGRCAALTCLPRETQIGRCSVKGRKCCRTRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2I3HNB0|A0A2I3HNB0_NOMLE/31-68 [subseq from] Uncharacterized protein OS=Nomascus leucogenys OX=61853 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGQCAVLSCLPKEEQIGKCSTK---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A7N9CIY1|A0A7N9CIY1_MACFA/21-64 [subseq from] Defensin beta 103B OS=Macaca fascicularis OX=9541 GN=DEFB103B PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGRCAVLSCL-KEEQIGKC--RGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2I3HKN5|A0A2I3HKN5_NOMLE/21-58 [subseq from] Uncharacterized protein OS=Nomascus leucogenys OX=61853 PE=4 SV=1
+-----HGGIINTLQKYYCRVRGGQCAVLSCLPKEEQIGKCSTK---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A287ADT5|A0A287ADT5_PIG/35-81 [subseq from] Uncharacterized protein OS=Sus scrofa OX=9823 GN=SPAG11 PE=4 SV=1
+-----NGRIINTLQRYYCKIRRGRCAVLGCLPKEEQIGSCSVSGRKCCRKRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6J3BJG4|A0A6J3BJG4_VICPA/23-67 [subseq from] beta-defensin 103A-like OS=Vicugna pacos OX=30538 GN=LOC116285677 PE=4 SV=1
+-------RIINKLQKYYCKVRSGRCAVLGCLPKEEQIGRCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2Y9RDK0|A0A2Y9RDK0_TRIMA/24-67 [subseq from] beta-defensin 103A-like OS=Trichechus manatus latirostris OX=127582 GN=LOC111821580 PE=3 SV=1
+--------FISALQKYYCKIRGGRCAVIGCLPKEEQIGHCSSTGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P3RED5|A0A6P3RED5_PTEVA/22-67 [subseq from] beta-defensin 103A-like OS=Pteropus vampyrus OX=132908 GN=LOC105303785 PE=4 SV=1
+------GGIISSLQRSYCKIRSGRCAVLSCLPKEEQIGTCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N4CFC0|A0A5N4CFC0_CAMDR/23-67 [subseq from] Beta-defensin 103A OS=Camelus dromedarius OX=9838 GN=Cadr_000026657 PE=4 SV=1
+-------RIINKLQKYYCKIRSGRCAVLGCLPKEEQIGRCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4X1VY41|A0A4X1VY41_PIG/23-67 [subseq from] Uncharacterized protein OS=Sus scrofa OX=9823 GN=LOC404703 PE=4 SV=1
+-------RIINTLQRYYCKIRRGRCAVLGCLPKEEQIGSCSVSGRKCCRKRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|Q6SC68|Q6SC68_PIG/23-67 [subseq from] Beta-defensin 103 isoform X1 OS=Sus scrofa OX=9823 GN=SPAG11 PE=2 SV=1
+-------RIINTLQRYYCKIRRGRCAVLGCLPKEEQIGSCSVSGRKCCRKRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|L8HND1|L8HND1_9CETA/3-50 [subseq from] Uncharacterized protein (Fragment) OS=Bos mutus OX=72004 GN=M91_12999 PE=4 SV=1
+----HNGSIISGLQKYYCKIRSSQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A091E3W4|A0A091E3W4_FUKDA/22-67 [subseq from] Beta-defensin 1 OS=Fukomys damarensis OX=885580 GN=H920_00442 PE=4 SV=1
+------GGLINAVQRYFCRVRGGRCAALTCLPRETQIGHCSLKGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|S9YEN8|S9YEN8_CAMFR/56-100 [subseq from] Uncharacterized protein OS=Camelus ferus OX=419612 GN=CB1_000350067 PE=4 SV=1
+-------RIINKLQKYYCKIRSGRCAVLGCLPKEEQIGRCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G1TTX8|G1TTX8_RABIT/22-67 [subseq from] Uncharacterized protein OS=Oryctolagus cuniculus OX=9986 PE=4 SV=1
+------GGLINAAHKYYCKLRRGRCALLSCLPKEEQIGRCSLRGRKCCRTKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N3VGN1|A0A5N3VGN1_MUNMU/22-67 [subseq from] Uncharacterized protein OS=Muntiacus muntjak OX=9888 GN=FD754_013111 PE=4 SV=1
+------GGIISGLQKYYCKIRSGRCALIGCLPKEEQIGRCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N3XMH3|A0A5N3XMH3_MUNRE/22-67 [subseq from] Uncharacterized protein OS=Muntiacus reevesi OX=9886 GN=FD755_015334 PE=4 SV=1
+------GGIISGLQKYYCKIRSGRCALIGCLPKEEQIGRCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3Q1M0J5|A0A3Q1M0J5_BOVIN/23-67 [subseq from] Uncharacterized protein OS=Bos taurus OX=9913 GN=LOC107131528 PE=4 SV=1
+-------SIISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6J2MRC5|A0A6J2MRC5_9CHIR/22-67 [subseq from] beta-defensin 103A-like OS=Phyllostomus discolor OX=89673 GN=LOC114508342 PE=4 SV=1
+------AGIITRVQRYFCKARNGRCAALSCLPKEEQIGTCSLRGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A345X1H2|A0A345X1H2_BOSIN/3-47 [subseq from] Defensin 103A (Fragment) OS=Bos indicus OX=9915 PE=4 SV=1
+-------SIISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>sp|Q0W9P9|D103A_HORSE/22-67 [subseq from] Beta-defensin 103A OS=Equus caballus OX=9796 GN=DEFB103A PE=3 SV=1
+------GGIINMLQKSYCKIRKGRCALLGCLPKEEQIGSCSVSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G1P521|G1P521_MYOLU/22-67 [subseq from] Uncharacterized protein OS=Myotis lucifugus OX=59463 PE=4 SV=1
+------GGIISTVQRYFCKVRSGRCALVSCLPKEEHIGSCSLTGRKCCRRRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|L5LQI2|L5LQI2_MYODS/22-67 [subseq from] Beta-defensin 103A OS=Myotis davidii OX=225400 GN=MDA_GLEAN10002405 PE=4 SV=1
+------GGIISTVQRYFCKVRSGRCALVSCLPKEEHIGSCSLTGRKCCRRRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|S7Q0D8|S7Q0D8_MYOBR/22-67 [subseq from] Beta-defensin 103A OS=Myotis brandtii OX=109478 GN=D623_10001966 PE=4 SV=1
+------GGIISTVQRYFCKVRSGRCALVSCLPKEEHIGSCSLTGRKCCRRRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A286XQ27|A0A286XQ27_CAVPO/22-67 [subseq from] Uncharacterized protein OS=Cavia porcellus OX=10141 PE=4 SV=1
+------GGLISAVQRYFCRVRGGRCAALSCLPRETQIGRCSLKGRKCCRTKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3Q1ME63|A0A3Q1ME63_BOVIN/23-67 [subseq from] Uncharacterized protein OS=Bos taurus OX=9913 PE=4 SV=1
+-------SIISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4W2C349|A0A4W2C349_BOBOX/23-67 [subseq from] Uncharacterized protein OS=Bos indicus x Bos taurus OX=30522 PE=4 SV=1
+-------SIISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4W2HTJ1|A0A4W2HTJ1_BOBOX/22-67 [subseq from] Beta-defensin 103A OS=Bos indicus x Bos taurus OX=30522 GN=LOC113884989 PE=4 SV=1
+------GGIISGLQRYYCKIRSGRCALIGCLPKEEQIGRCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6J8DTE7|A0A6J8DTE7_MYTCO/13-179 [subseq from] Uncharacterized protein OS=Mytilus coruscus OX=42192 GN=MCOR_43286 PE=4 SV=1
+--------------------------------------------------------VFMIRYTKHVEARGKCTRQYTKHVKARGKCTRHYTKHVKARGKCTRQYTKHVKVRGKCTRHYTKHVKARGKCTRHYTKHVKARGKCTRHYTKHVKARGKCTRHYTKHVEAKGKCTRQYTKHVKARGKCTRQYTKHVKAKGKCTRQYTKHVKAKGKCTRQYTKHVKAR---------------------------------------
+>tr|A0A6J8DTE7|A0A6J8DTE7_MYTCO/195-388 [subseq from] Uncharacterized protein OS=Mytilus coruscus OX=42192 GN=MCOR_43286 PE=4 SV=1
+--------------------------------------KCTRQYT----KHVKARGKYTRQYTKHVKAKGKCTRQYTKHVKVRGKCTRQYTKHVKAKGKCTRQYTKHVEARGKCTRQYTKHVEAKGKCTRQYTKHVKARGKCTRQYTKHVKARGKCTRQYTKHVKARGKCTRQNTKHVKARGKCTRQYTKHVKARGKCTRQYTKHVKAKGKCTRQYTKHVKAKGKCTRQYTKHVKA--------------------------
+>tr|A0A6J8DTE7|A0A6J8DTE7_MYTCO/390-582 [subseq from] Uncharacterized protein OS=Mytilus coruscus OX=42192 GN=MCOR_43286 PE=4 SV=1
+-------------------------------------GK-------CTRQytkHVKARGKYTRQYTKHVKVRGKCTRHYTKHVKAKGKCTRQYTKHVKARGKCTRQNTKHVEARGKCTRQYTKHVKARGKCTRQYTKHVEARGKCTRQYTKHVEARGKCTRQYTKHVEAKGKCTRQYTKHVEAKGKCTRQYTKHVKAKGKCTRQYTKHVEAKGKCTRQYTKHVEAKGKCTRHYTKHV----------------------------
+>tr|A0A6P5B8R5|A0A6P5B8R5_BOSIN/22-67 [subseq from] beta-defensin 103A OS=Bos indicus OX=9915 GN=LOC109553384 PE=4 SV=1
+------GGIISGLQRYYCKIRSGRCALIGCLPKEEQIGRCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|Q50JB9|Q50JB9_BOVIN/22-67 [subseq from] Beta-defensin 103B OS=Bos taurus OX=9913 GN=defb300 PE=2 SV=1
+------GGIISGLQRYYCKIRSGRCALIGCLPKEEQIGRCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A1S3W3N4|A0A1S3W3N4_ERIEU/22-67 [subseq from] beta-defensin 103-like OS=Erinaceus europaeus OX=9365 GN=LOC107522224 PE=4 SV=1
+------GGVIDTLKRYYCKARGGRCALVSCLPREELIGSCSMKGRKCCRRRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A023T4T1|A0A023T4T1_CAPHI/22-68 [subseq from] Beta-defensin-3 OS=Capra hircus OX=9925 GN=BD-3 PE=2 SV=1
+------GGIISGLRKYYCKIRSGRCALIGCLPKEEEIGHCSLTGRKCCRRKKN-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P3FPM6|A0A6P3FPM6_OCTDE/22-67 [subseq from] beta-defensin 1 OS=Octodon degus OX=10160 GN=LOC101588300 PE=4 SV=1
+------GGLISAVQRYFCRVRGGRCAALTCLPRETQIGHCSLKGRKCCRRRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2I2UIW1|A0A2I2UIW1_FELCA/22-67 [subseq from] Beta-defensin 103A OS=Felis catus OX=9685 GN=LOC101101212 PE=4 SV=1
+------GGIISLLQKQFCSLRSGRCALLTCLPKEEQIGRCSLSGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N3XHM6|A0A5N3XHM6_MUNRE/8-59 [subseq from] Uncharacterized protein (Fragment) OS=Muntiacus reevesi OX=9886 GN=FD755_014791 PE=4 SV=1
+------GGIVSWLQKYYCKIRSGQCTLIGCLPKEEQIGHCSLSGRKCCWKKKRKFQKH------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A667H559|A0A667H559_LYNCA/22-67 [subseq from] Beta-defensin 103A-like OS=Lynx canadensis OX=61383 GN=LOC115511628 PE=4 SV=1
+------GGIISLLQKQFCSLRSGRCALLTCLPKEEQIGRCSLSGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G3T5A3|G3T5A3_LOXAF/24-67 [subseq from] Uncharacterized protein OS=Loxodonta africana OX=9785 PE=4 SV=1
+--------FISALQKYFCKIRSGRCAVLGCLPKEEQIGHCSLTGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|E1BHH4|E1BHH4_BOVIN/22-67 [subseq from] Uncharacterized protein OS=Bos taurus OX=9913 PE=4 SV=2
+------SSIISGLQKYYCKIRSSQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4W2G4V8|A0A4W2G4V8_BOBOX/23-66 [subseq from] Uncharacterized protein OS=Bos indicus x Bos taurus OX=30522 PE=4 SV=1
+--------IISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|L8HUN1|L8HUN1_9CETA/23-66 [subseq from] Beta-defensin 103A (Fragment) OS=Bos mutus OX=72004 GN=M91_16212 PE=4 SV=1
+--------IISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P7DK68|A0A6P7DK68_SHEEP/22-67 [subseq from] beta-defensin 103A-like OS=Ovis aries OX=9940 GN=LOC101105214 PE=4 SV=1
+------GGIISGLRKYYCKIRSGRCALIGCLPKEEEIGRCSLTGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|W5P8Q6|W5P8Q6_SHEEP/22-67 [subseq from] Beta defensin OA300 OS=Ovis aries OX=9940 GN=LOC101105214 PE=4 SV=1
+------GGIISGLRKYYCKIRSGRCALIGCLPKEEEIGRCSLTGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P7R7X4|A0A6P7R7X4_MUSCR/25-67 [subseq from] beta-defensin 14 OS=Mus caroli OX=10089 GN=LOC110300690 PE=4 SV=1
+---------PKTLRKFFCRIRGGRCAVLNCLAKEEQIGRCSNSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A1S3FUZ4|A0A1S3FUZ4_DIPOR/23-66 [subseq from] beta-defensin 103-like OS=Dipodomys ordii OX=10020 GN=LOC105991556 PE=4 SV=1
+-------WIINTMRRYYCKIRNGRCAFLGCLAKEEQIGRCSLKGRKCCRKK-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6I9ZZM3|A0A6I9ZZM3_ACIJB/49-94 [subseq from] beta-defensin 103A OS=Acinonyx jubatus OX=32536 GN=LOC106981998 PE=4 SV=1
+------GGIISLLQKQFCSLRSGRCALLTCLPKEEQIGRCSLSGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P4V475|A0A6P4V475_PANPR/49-94 [subseq from] beta-defensin 103A-like OS=Panthera pardus OX=9691 GN=LOC109260741 PE=4 SV=1
+------GGIISLLQKQFCSLRSGRCALLTCLPKEEQIGRCSLSGRKCCRRKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A452E075|A0A452E075_CAPHI/22-67 [subseq from] Uncharacterized protein OS=Capra hircus OX=9925 PE=4 SV=1
+------GGIISGLRKYYCKIRSGRCALIGCLPKEEEIGHCSLTGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3Q0EA65|A0A3Q0EA65_CARSF/24-65 [subseq from] beta-defensin 103-like OS=Carlito syrichta OX=1868482 GN=LOC110596297 PE=4 SV=1
+--------IIRSIQRYFCQTRGGRCAIFSCLPREEQIGHCSIRGQKCCRR--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>sp|Q7TNV9|DFB14_MOUSE/26-67 [subseq from] Beta-defensin 14 OS=Mus musculus OX=10090 GN=Defb14 PE=3 SV=1
+----------KTLRKFFCRIRGGRCAVLNCLGKEEQIGRCSNSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4W2GG29|A0A4W2GG29_BOBOX/23-67 [subseq from] Uncharacterized protein OS=Bos indicus x Bos taurus OX=30522 PE=4 SV=1
+-------SIISGLQKYYCKIRSSQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P5AWN4|A0A6P5AWN4_BOSIN/37-81 [subseq from] beta-defensin 103A-like OS=Bos indicus OX=9915 GN=LOC109553291 PE=4 SV=1
+-------SIISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRVRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P5B8E7|A0A6P5B8E7_BOSIN/37-81 [subseq from] beta-defensin 103A-like OS=Bos indicus OX=9915 GN=LOC109553286 PE=4 SV=1
+-------SIISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRVRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A673SLM3|A0A673SLM3_SURSU/22-67 [subseq from] Uncharacterized protein OS=Suricata suricatta OX=37032 PE=4 SV=1
+------GGIISLLQRQFCSLRSGRCALLSCLPREEQIGHCSLTGRKCCRRRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P5BHF0|A0A6P5BHF0_BOSIN/37-81 [subseq from] beta-defensin 103A-like OS=Bos indicus OX=9915 GN=LOC109553283 PE=4 SV=1
+-------SIISGLQKYYCKIRSSQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A1U7RI02|A0A1U7RI02_MESAU/25-68 [subseq from] beta-defensin 103 OS=Mesocricetus auratus OX=10036 GN=Defb103b PE=4 SV=1
+---------QKTIQKVFCRLRGGRCAVFSCLAREEQIGQCSRRGRKCCRIKRK-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6I9MP72|A0A6I9MP72_PERMB/24-67 [subseq from] beta-defensin 14-like OS=Peromyscus maniculatus bairdii OX=230844 GN=LOC102906099 PE=4 SV=1
+--------IEKTLRKLFCRVRGGRCAIISCLTTEEQIGKCSQKGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P5BGY3|A0A6P5BGY3_BOSIN/56-100 [subseq from] beta-defensin 103A-like OS=Bos indicus OX=9915 GN=LOC109553284 PE=4 SV=1
+-------SIISGLQKYYCKIRSSQCALIGCLPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3B3IIF1|A0A3B3IIF1_ORYLA/56-189 [subseq from] Uncharacterized protein OS=Oryzias latipes OX=8090 PE=4 SV=1
+-------------------------------------------------------------------------------------------------------------------------VEPSARSEEPSVRSVEPSVRSVEPSVRSEERSVRSVEPSVRSVEPSARSEEPSVRSEERSVRSVEPSVRSVEPSVRSVEPSVRSVEPSVRSVEPSVRSEERSVRSEEPSVRSVEPSVRSVEPSVRSVEPSVRSV-------
+>tr|A0A3B3IIF1|A0A3B3IIF1_ORYLA/171-272 [subseq from] Uncharacterized protein OS=Oryzias latipes OX=8090 PE=4 SV=1
+--------------------------------------------------------------------------------------------------------------------------------------------------------SVRSVEPSVRSVEPSVRSVEPSVRSEERSVRSEERSVRSVEPSVRSVEPSVRSEEPSVRSVEPSVRSVEPSVRSEEPSVRSVEPSVRSVEPSARSVEPSARS--------
+>tr|A0A3B3IIF1|A0A3B3IIF1_ORYLA/219-434 [subseq from] Uncharacterized protein OS=Oryzias latipes OX=8090 PE=4 SV=1
+---------------------------------------PSVRSEEPSVRSVEPSVRSVEPSVRSEEPSVRSVEPSVRSVEPSARSVEPSARSEEPSVRSEERSVRSVEPSVRSVEPSVRSEERSVRSVAPSARSVEPSARSEERSARSVEPSVRSVEPSVRSVEPSVRSVEPSVRSEEPSIRSVEPSVRSVEPSVRSVEPSVRSEERSVRSVEPSVRSVEPSVRSEEPSVRSEERSVRSVEPSVRSVEPSVRSV-------
+>tr|A0A3B3IIF1|A0A3B3IIF1_ORYLA/317-524 [subseq from] Uncharacterized protein OS=Oryzias latipes OX=8090 PE=4 SV=1
+----------------------------------------------PSARSEERSARSVEPSVRSVEPSVRSVEPSVRSVEPSVRSEEPSIRSVEPSVRSVEPSVRSVEPSVRSEERSVRSVEPSVRSVEPSVRSEEPSVRSEERSVRSVEPSVRSVEPSVRSVEPSVRSVEPSVRSEERSVRSEERSVRSEEPSVRSVEPSVRSVEPSVRSVEPSVRSVEPSVRSEERSVRSVEPSVRLVEPSVRSVEPSVRS--------
+>tr|A0A3B3IIF1|A0A3B3IIF1_ORYLA/463-566 [subseq from] Uncharacterized protein OS=Oryzias latipes OX=8090 PE=4 SV=1
+------------------------------------------------------------------------------------------------------------------------------------------------------EPSVRSVEPSVRSVEPSVRSVEPSVRSVEPSVRSEERSVRSVEPSVRLVEPSVRSVEPSVRSEEPSVRSVEPSVRSEERSVRSVEPSVRSVEPSVRSVEPSVRS--------
+>tr|A0A3B3IIF1|A0A3B3IIF1_ORYLA/543-678 [subseq from] Uncharacterized protein OS=Oryzias latipes OX=8090 PE=4 SV=1
+----------------------------------------------------------------------------------------------------------------------VRSVEPSVRSVEPSVRSVEPSVRSEERSVRSVEPSVRSVEPSVRSVEPSVRSEERSVRSEERSVRSVEPSVRSEEPSVRSEEPSVRSEERSVRSVEPSVRSEEPSVRSEERSVRSVEPSVRSEEPSVRSVEPSVRS--------
+>tr|A0A061IJZ9|A0A061IJZ9_CRIGR/24-67 [subseq from] Beta-defensin 14-like protein OS=Cricetulus griseus OX=10029 GN=H671_1g3553 PE=4 SV=1
+--------IQRTIQKLFCRLRGGRCALFSCLAREEQIGQCSSRGRKCCRTKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>sp|Q32ZH7|DFB14_RAT/26-67 [subseq from] Beta-defensin 14 OS=Rattus norvegicus OX=10116 GN=Defb14 PE=3 SV=1
+----------KSLRRFFCRVRGGRCAILNCLGKEEQIGRCSNRGQKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P3G9A4|A0A6P3G9A4_BISBI/37-81 [subseq from] beta-defensin 103A-like OS=Bison bison bison OX=43346 GN=LOC104981038 PE=4 SV=1
+-------SIISGLQKYYCKIRSSQCALIGCLPKEEQIGRCSLRDRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4W2G3A6|A0A4W2G3A6_BOBOX/23-66 [subseq from] Beta-defensin 103A-like OS=Bos indicus x Bos taurus OX=30522 GN=LOC113884924 PE=4 SV=1
+--------IISGLQKYYCKIRSGQCALIGCLPKEEQIGRCSLRVRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4W2DQ83|A0A4W2DQ83_BOBOX/35-80 [subseq from] Uncharacterized protein OS=Bos indicus x Bos taurus OX=30522 PE=4 SV=1
+------GSIISGLQKYYCKIRSSQCALIGCHPKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P4ZL74|A0A6P4ZL74_BRABE/209-405 [subseq from] girdin-like OS=Branchiostoma belcheri OX=7741 GN=LOC109479922 PE=4 SV=1
+--------------------------------------------------------------YQHLEALRKEL-DAIQQTIALRKDLDPIYKTLQALTNDLDQIYQMVEALrndPDSTNQSSRTLEALRNDLDPINQMLKAVRMDLDSIYLFVmiKALRKEVDTIHQTLKALRKELDSIHQTVEALRKELDPIYQMCKALTNDLDPIYQTLKVLRKELDPIHQTVEALRKELDPIHQTLKALRIELDPIHQTVEALRKDL-------
+>tr|A0A6P4ZL74|A0A6P4ZL74_BRABE/329-529 [subseq from] girdin-like OS=Branchiostoma belcheri OX=7741 GN=LOC109479922 PE=4 SV=1
+----------------------------------------------------EALRKELDPIYQMCKALTNDLDPIYQTLKVLRKELDPIHQTVEALRKELDPIHQTLKAL-RIELDPIhQTVEALRKDLDPIYQTLKALRIELDPIHQTVEALRKEQDPIHQTLKALRKELDPIHQTVEALRKDLDPIYQTLKALRIELDPIHQTVEALRKELDPIHQTVEALRKALDPIYQTVEALMNDLDStkqSYRTLEA------------
+>tr|A0A6P4ZL74|A0A6P4ZL74_BRABE/478-591 [subseq from] girdin-like OS=Branchiostoma belcheri OX=7741 GN=LOC109479922 PE=4 SV=1
+-------------------------------------------------------------IHQTVEALRKELDPIHQTVEALRKALDPIYQTVEALMNDLDSTKQSYRTleAYRNDLEPTnQILKASKKDLDPIYQI-QA-VNNKDTIHHTIEPLMAAEDPTPYTLEA--------------------------------------------------------LKNDIHQI--------------------------------
+>tr|A0A2U3V3T3|A0A2U3V3T3_TURTR/24-66 [subseq from] beta-defensin 103A-like OS=Tursiops truncatus OX=9739 GN=LOC101326055 PE=3 SV=1
+--------IVNILQKYYCRVRGGRCALFGCLPREIPLGLCSHSGRKCCRRE-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N3VI67|A0A5N3VI67_MUNMU/8-53 [subseq from] Uncharacterized protein (Fragment) OS=Muntiacus muntjak OX=9888 GN=FD754_013867 PE=4 SV=1
+------GGIVSWLQKYYCKIRSGQCTLIGYLPKEEQIGHCSLSGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2I3H3N5|A0A2I3H3N5_NOMLE/21-57 [subseq from] Uncharacterized protein OS=Nomascus leucogenys OX=61853 GN=LOC115833672 PE=4 SV=1
+-----HGGLMNTLQKYYCRVRGGWCAVLSCLPKEEQIGKYSI----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2I3GY42|A0A2I3GY42_NOMLE/31-67 [subseq from] Uncharacterized protein OS=Nomascus leucogenys OX=61853 GN=LOC115833672 PE=4 SV=1
+-----HGGLMNTLQKYYCRVRGGWCAVLSCLPKEEQIGKYSI----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|G3MWU3|G3MWU3_BOVIN/49-93 [subseq from] Uncharacterized protein OS=Bos taurus OX=9913 PE=4 SV=1
+-------NIISGLQKYYCKIRSGQCALIGCLPKEEQIDCCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A452CLX7|A0A452CLX7_BALAS/22-67 [subseq from] beta-defensin 103-like OS=Balaenoptera acutorostrata scammoni OX=310752 GN=LOC114238699 PE=3 SV=1
+------GGIINILQKYYCKIRGGRCALFGCLPWETSSGRCSQSGRKCCLRRK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2Y9RYX4|A0A2Y9RYX4_PHYMC/23-66 [subseq from] beta-defensin 103-like OS=Physeter macrocephalus OX=9755 GN=LOC112062148 PE=3 SV=1
+-------GIINILQRYYCRIRGGRCALFGCLPWEIPSGRCSSSGRKCCQKK-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N3VXJ4|A0A5N3VXJ4_MUNRE/13-61 [subseq from] Uncharacterized protein OS=Muntiacus reevesi OX=9886 GN=FD755_024128 PE=4 SV=1
+---ENNGGIISGLQRYDCRKRNGWCALIGCIPKEEQIGRCSLSGRTCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A4W2HWZ2|A0A4W2HWZ2_BOBOX/23-66 [subseq from] Uncharacterized protein OS=Bos indicus x Bos taurus OX=30522 PE=4 SV=1
+--------IISGLQKYYCKIRSSQCALIGCHPKEEQIGRCSLRGRKCCQKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A1E2XWH7|A0A1E2XWH7_PARBR/44-229 [subseq from] Uncharacterized protein OS=Paracoccidioides brasiliensis OX=121759 GN=GX48_07031 PE=4 SV=1
+---------------------------------------------------ADAATKYVVDKRSDADTATKYVVDKRSDADAATKYVVDRRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAA-------------------------
+>tr|A0A1E2XWH7|A0A1E2XWH7_PARBR/254-415 [subseq from] Uncharacterized protein OS=Paracoccidioides brasiliensis OX=121759 GN=GX48_07031 PE=4 SV=1
+---------------------------------------------------ADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYVVDKRSDADAATKYV-------------------------------------------------
+>tr|A0A341DAA9|A0A341DAA9_NEOAA/24-66 [subseq from] beta-defensin 103A-like OS=Neophocaena asiaeorientalis asiaeorientalis OX=1706337 GN=LOC112415217 PE=3 SV=1
+--------FINILQKYYCKLRGGRCALFGCLPREIPIGTCSHSGRKCCQRQ-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A2Y9MXD1|A0A2Y9MXD1_DELLE/24-66 [subseq from] beta-defensin 103A-like OS=Delphinapterus leucas OX=9749 GN=LOC111173353 PE=3 SV=1
+--------TINILQRYYCKMRGGRCALFGCLPREIPIGPCSQSGRKCCRRE-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N3US93|A0A5N3US93_MUNMU/14-61 [subseq from] Uncharacterized protein OS=Muntiacus muntjak OX=9888 GN=FD754_023779 PE=4 SV=1
+----SNGGIISGLQRYYCRRRSGWCALIGCLPNEEQIGRCSLSGRTRCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A833S4Y8|A0A833S4Y8_9CETA/22-67 [subseq from] Uncharacterized protein OS=Cervus hanglu yarkandensis OX=84702 GN=G4228_020317 PE=4 SV=1
+------GGIISGLQRYYCRRRSGQCALIGCLTNEEQIGRCSLSGRICCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N3XIQ0|A0A5N3XIQ0_MUNRE/10-55 [subseq from] Uncharacterized protein OS=Muntiacus reevesi OX=9886 GN=FD755_014783 PE=4 SV=1
+------GGIISGLQRFDCKRRSGQCALIACLPREEQIGRCSLSGRKSCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6J0WFQ6|A0A6J0WFQ6_ODOVR/6-47 [subseq from] beta-defensin 103A-like OS=Odocoileus virginianus texanus OX=9880 GN=LOC110129495 PE=4 SV=1
+-----NSGIISGLQKYYCQRRSGRCALIGCLPKEEQIGRCALSVRKC-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A2FKW1|A2FKW1_TRIVA/5-123 [subseq from] SRP, putative (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_327880 PE=4 SV=1
+------------------------------------------------------------------------------------------------------------------------------------------AASSLHQAASSLDQSASSLHQDASSLHQDASSLQQSASSLDQGASSLDQDASSLNQSASSLNQSASSLDQGASSLHQDASSLQQSASSLDQGASSLDQDASSLNQSASSLNQSASSLDQ-----
+>tr|A2FKW1|A2FKW1_TRIVA/126-249 [subseq from] SRP, putative (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_327880 PE=4 SV=1
+-------------------------------------------------------------------------------------------------------------------------------------SSLHQGASSLDQDASSLNQSASSLHQGASSLHQGASSLDQGASSLDQGASSLHQGASSLHHAASSLHHAASSLHHAAYSLHQDASSLHQGASSLHQGASSLHQDASSLHQSASSLHQGASSLHQ-----
+>tr|A2FKW1|A2FKW1_TRIVA/257-361 [subseq from] SRP, putative (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_327880 PE=4 SV=1
+--------------------------------------------------------------------------------------------------------------------------------------------------------GASSLHQGASSLHQGASSLLQSTSSLHQDASSLDQGASSLDQGASSLHQDASSLHQSASSLHQGASSLHQGASSLHQGASSLHQGASSLHQGASSLLQSTSSLHQ-----
+>tr|A2FKW1|A2FKW1_TRIVA/343-508 [subseq from] SRP, putative (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_327880 PE=4 SV=1
+-------------------------------------------------------------------------------------------SSLHQGASSLLQSTSSLHQDASSLDQGASSLHQGASSLHQGASSLNQSASSLLQSTSSLQQSASSLHQGASSLHQGASSLLQSTSSLDQDASSLDQGASSLHQGASSLDQDASSLHQGASSLNQSASSLQQSASSLNQSASSLQQSASSLLQSTSSLDQGASSLHQ-----
+>tr|A2FKW1|A2FKW1_TRIVA/386-578 [subseq from] SRP, putative (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_327880 PE=4 SV=1
+----------------------------------------------------------------SLNQSASSLLQSTSSLQQSASSLHQGASSLHQGASSLLQSTSSLDQDASSLDQGASSLHQGASSLDQDASSLHQGASSLNQSASSLQQSASSLNQSASSLQQSASSLLQSTSSLDQGASSLHQGASSLNQSASSLDQDASSLDQGASSLHQGASSLNQSASSLQQSASSLLQSTSSLDQGASSLHQGASSLNQ-----
+>tr|A2FKW1|A2FKW1_TRIVA/527-725 [subseq from] SRP, putative (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_327880 PE=4 SV=1
+----------------------------------------------------------LDQGASSLHQGASSLNQSASSLQQSASSLLQSTSSLDQGASSLHQGASSLNQSASSLDQDASSLNQSASSLNQSASSLDQDASSLDQGASSLHQGASSLNQSASSLQQSASSLLQSTSSLDQGASSLHQGASSLNQSASSLDQDASSLDQGASSLHQGASSLHQGASSLNQSASSLQQSASSLLQSTSSLDQGASSLHQ-----
+>tr|A0A5N3US15|A0A5N3US15_MUNMU/22-67 [subseq from] Uncharacterized protein OS=Muntiacus muntjak OX=9888 GN=FD754_023835 PE=4 SV=1
+------SGIISGLQKYYCKRRSGRYALIGCLPNEEQIGRFALSGRKSCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5N3XKC3|A0A5N3XKC3_MUNRE/22-67 [subseq from] Uncharacterized protein OS=Muntiacus reevesi OX=9886 GN=FD755_015196 PE=4 SV=1
+------SGIISGLQKYYCKRRSGRYALIGCLPNEEQIGRFALSGRKSCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A833S511|A0A833S511_9CETA/23-67 [subseq from] Uncharacterized protein OS=Cervus hanglu yarkandensis OX=84702 GN=G4228_020372 PE=4 SV=1
+-------GIISGFQKDYCKRRSGRCALIGYLPNEEQIGRCALSGRKCCQKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A6P5AQQ5|A0A6P5AQQ5_BOSIN/23-67 [subseq from] beta-defensin 103-like OS=Bos indicus OX=9915 GN=LOC109553494 PE=4 SV=1
+-------SIISGLQKYYCKIXXXXXXXXXCLPKEEQIGRCSLRGRKCCQKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A287DET8|A0A287DET8_ICTTR/20-51 [subseq from] Beta-defensin 103-like OS=Ictidomys tridecemlineatus OX=43179 GN=LOC101972196 PE=4 SV=1
+--------------------GGGRCAMLGCLSKEEQIGRCSLRGRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3B1JIV0|A0A3B1JIV0_ASTMX/20-130 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=3 SV=1
+---------------------------------------------------------------------------------------------------------------------------------------VNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAAR----------------
+>tr|A0A3B1JIV0|A0A3B1JIV0_ASTMX/175-284 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=3 SV=1
+---------------------------------------------------------------------------------------------------------------------------------NPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAAR-----------------------
+>tr|A0A3B1JIV0|A0A3B1JIV0_ASTMX/300-410 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=3 SV=1
+---------------------------------------------------------------------------------------------------------------------------------------VNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAARGVNPAAR----------------
+>tr|A0A3Q2HIT9|A0A3Q2HIT9_HORSE/21-61 [subseq from] Uncharacterized protein OS=Equus caballus OX=9796 PE=4 SV=2
+-----NGGIINALQKSYWKIRNGQCAVLGCLPKEGQIGCCSVSGER------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A401SYU0|A0A401SYU0_CHIPU/3-205 [subseq from] LXG domain-containing protein OS=Chiloscyllium punctatum OX=137246 GN=chiPu_0014043 PE=4 SV=1
+---------------------------------------------QLCNKTLQSVTEIVEFVSHTLESVTESLEPVTESLEFVTECLESVTECLESVTKTPESVTESLESVTE-TL------ESVTKCLESVTKTLESIKEILESVTKFLESVTESLESIKETLESVTKSLESATETLESVTKFLEYIKETLESVTECLESVTKSLESITESLEPETKSLESVTEILDLVSQTLQSVTKSLDPVTKTLESVTETL-------
+>tr|A0A401SYU0|A0A401SYU0_CHIPU/183-231 [subseq from] LXG domain-containing protein OS=Chiloscyllium punctatum OX=137246 GN=chiPu_0014043 PE=4 SV=1
+-------------------------------------------------------------------------------------------------------------------------------TLQSVTKSLDPVTKTLESVTETLEPVTKSLQSVTETLEPVTKSLQSVTE--------------------------------------------------------------------------------------
+>tr|A0A5N3UR16|A0A5N3UR16_MUNRE/2-47 [subseq from] Uncharacterized protein (Fragment) OS=Muntiacus reevesi OX=9886 GN=FD755_025029 PE=4 SV=1
+------GGILSGLERCYCRRRSGGCALIGCLPKEGQIGRYSLSGRTCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A3B4DXE5|A0A3B4DXE5_PYGNA/18-205 [subseq from] Vps53_N domain-containing protein OS=Pygocentrus nattereri OX=42514 PE=4 SV=1
+------------------------------------------------------------YTIQNLEYAIQNLEYAIQNLEYAIQNLDHAIQNLEYALKNLEYAIQNLEYALK-------NLEYAIQNLDHAIQNLEYAIQNLDHAIQNLEYAHKNLEYTIQNLEYAIQNLEYAIQNLEYAIQNLDHAIQNLEYAIQNLEYAIQNLEYAIQNLEHAIQNLDHAIQNLEYALKNLEYAIQNLDHAIQNLEYAIQNL-------
+>tr|A0A3B4DXE5|A0A3B4DXE5_PYGNA/206-306 [subseq from] Vps53_N domain-containing protein OS=Pygocentrus nattereri OX=42514 PE=4 SV=1
+------------------------------------------------------------------------------------------------------------------------------------------------------EYAIQNLDHAIQNLDHAIQNLEYALKKLEYAIQNLDHAIQNFEYAIQNLDHAIQNLDHASQNLDHASQNLEYTIQNLDHASQNLDHASQNLDHAIQNLEYA-----------
+>tr|A0A3B1JSH2|A0A3B1JSH2_ASTMX/27-189 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+---------------------------------------------------------------------------TVKKLRATVGELRSTVKKLRATVGELRSELRSTVKKLRATVGELRS---TVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKL---------------------
+>tr|A0A3B1JSH2|A0A3B1JSH2_ASTMX/243-346 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+-----------------------------------------------------------------------------KKLRATVGELRST-----------------------------------VKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRAT----------------------------------------------
+>tr|A0A3B1JSH2|A0A3B1JSH2_ASTMX/395-537 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+---------------------------------------------------------------------------TVKKLRATVGELRSTVKKLRATVGELRSTVKKL----RATVGEL---RSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVK-------------------------------------
+>tr|A0A3B1JSH2|A0A3B1JSH2_ASTMX/579-669 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+------------------------------------------------------------------------------------------------------------------------------KKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATV---------------------------------------------
+>tr|A0A3B1JSH2|A0A3B1JSH2_ASTMX/665-793 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+-----------------------------------------------------------------LRATVGELRSTVKKLRATVGELRSTVKKLRATVGEL---------------------RSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRA-----------------------------------------------
+>tr|A0A3B1JSH2|A0A3B1JSH2_ASTMX/777-916 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+-------------------------------------------------------------------------------LRATVGELRSTVKKLRATVGELRSTVKKL----RATVGEL---RSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKK------------------------------------
+>tr|A0A3B1JSH2|A0A3B1JSH2_ASTMX/901-1058 [subseq from] Uncharacterized protein OS=Astyanax mexicanus OX=7994 PE=4 SV=1
+---------------------------------------------------------------KKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKL----RATVGELrSTVKKLRATVGELRSTVKNTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTVKKLRATVGELRSTV--------------------------------------
+>tr|A0A3M0LCN9|A0A3M0LCN9_HIRRU/9-213 [subseq from] F-BAR domain-containing protein OS=Hirundo rustica rustica OX=333673 GN=DUI87_00049 PE=4 SV=1
+----------------------------------------------------EKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLENLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLGKSLEKLRKSLEKLGKSLEKLRKSLEKLGKSLEKLGKSLEKLGKSLEK-----
+>tr|A0A7N4NZR7|A0A7N4NZR7_SARHA/20-64 [subseq from] Uncharacterized protein OS=Sarcophilus harrisii OX=9305 PE=4 SV=1
+-------GLLSRINNLICRVRQGKCRMIGCTNKEEQIGSCSLGRRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A7R9F7D6|A0A7R9F7D6_9NEOP/880-1040 [subseq from] Proteasome subunit alpha type-1 OS=Timema bartmani OX=61472 GN=TBIB3V08_LOCUS10598 PE=3 SV=1
+------------------------------------------------------------------------------ELELNTKVRDTFLNELELNTKVRDTFPNELELDTKLNtkVRDTLPneLELNTKVKDTLPNELELNTKVRDTLSNELELNTKVRDTLPNELELNTKVRDTLPNELELNTKVRDTLPNELELDTKVRDTLPNELELDTKVRDTLSNELELNTKVRDTLSNELE---------------------------
+>tr|A0A7R9F7D6|A0A7R9F7D6_9NEOP/1034-1229 [subseq from] Proteasome subunit alpha type-1 OS=Timema bartmani OX=61472 GN=TBIB3V08_LOCUS10598 PE=3 SV=1
+----------------------------------------------TLSNELELNTKVRDTLPNELELNTKVRDTLPNELELNTKVRDTLSNELELNTKVRDTLPNELELNTKVrdTLPN--ELELNTKVRDTLPNELELNTKVRDTLSNELELNTKVRDTLPNELELDTKVRDTLSNELELNTKVRDTLSNELELNTKVRDTLPNELELNTKVRDTLPNELELNTKVRDTLPNELELNTKVRD--------------------
+>tr|A0A7R9F7D6|A0A7R9F7D6_9NEOP/1136-1325 [subseq from] Proteasome subunit alpha type-1 OS=Timema bartmani OX=61472 GN=TBIB3V08_LOCUS10598 PE=3 SV=1
+--------------------------------------------------ELELNTKVRDTLPNELELDTKVRDTLSNELELNTKVRDTLSNELELNTKVRDTLPNELELNTKVrdTLPN--ELELNTKVRDTLPNELELNTKVRDTLSNELELNTKVRDTLPNELELNTKVRDTLSNELELNTKVRDTLPNELELNTKVRDTLSNELELNTKVRDTLPNELELNTKVRDTLPNELELNTKN----------------------
+>tr|A0A4X2KK98|A0A4X2KK98_VOMUR/22-68 [subseq from] Uncharacterized protein OS=Vombatus ursinus OX=29139 PE=4 SV=1
+-----ESGLLSRISSMICKVRQGKCRVIGCTSKEEKIGTCSLGRRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A210Q9C7|A0A210Q9C7_MIZYE/32-232 [subseq from] Microtubule-associated protein 1A OS=Mizuhopecten yessoensis OX=6573 GN=KP79_PYT03632 PE=4 SV=1
+-----------------------------------------------------ANSNECNQTHKSLDQANKSLDQTNKSLDQTNKSLDQANKSLDQANKSLDQTNKSLDQANKSLDQANKSLDQTNKSLDQTNKSLDQANKSLDQTNKSLDQTNKSLDQTNKSLDQANKSLDQTNKSLDQTNKSLDQANKSLDQTNKSLDQTNKSLDQANKSLDQTNKSLDQTNKSLDQANKSLDQTNKSLDQAKKSLDQTHKS--------
+>tr|A0A1L8HKE4|A0A1L8HKE4_XENLA/13-149 [subseq from] Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008774mg PE=4 SV=1
+------------------------------------------------------------------------------EIECTSKFLLGIEQEIESTSKFLLGIEQEIKSTSKFLLGIEQEIESTSKFLLGIEQEIESTSKFLLGIEQEIECTSKFLLGIEQEIESTSKFLLGIEQEIECTSKFLLGIEQDIEFTSKFLLGIEQEKESTSKVLLG-----------------------------------------------
+>tr|A0A1L8HKE4|A0A1L8HKE4_XENLA/152-189 [subseq from] Uncharacterized protein OS=Xenopus laevis OX=8355 GN=XELAEV_18008774mg PE=4 SV=1
+----------------------------------------------------------------------QEIESTKQEIESTSKFLMGIEQEIESTSKVLLKQRNSL----------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A452F9Q5|A0A452F9Q5_CAPHI/37-74 [subseq from] Uncharacterized protein OS=Capra hircus OX=9925 PE=4 SV=1
+------GGVTSRLHKYYCEMRSGRCALIGCLQKEEQIGRYSLSG--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A5F8G7H6|A0A5F8G7H6_MONDO/26-68 [subseq from] Uncharacterized protein OS=Monodelphis domestica OX=13616 PE=4 SV=1
+---------LERINNMYCKVRQGRCRFIRCTSKEENIGTCSLGRRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+>tr|A0A7J7JY52|A0A7J7JY52_BUGNE/10-142 [subseq from] Uncharacterized protein OS=Bugula neritina OX=10212 GN=EB796_010783 PE=4 SV=1
+-------------------------------------------------------------------------------------------------------------------------------KTSDKDLLLQEVAKKIiCLnKCEYIHGSVKYMHSSVKYMHGSVKYMHSSVKYMHSSIKHMHSSVKHMHSSVKYIHSSVKYMHSSVKHMHSSVKHMHSSVKYIHSSVKYMHSSVKYMHNSVKYMHSSVKYMHSS----
+>tr|A0A7J7JY52|A0A7J7JY52_BUGNE/130-177 [subseq from] Uncharacterized protein OS=Bugula neritina OX=10212 GN=EB796_010783 PE=4 SV=1
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------KYMHSSVKYMHSSVKYMHSSIKHIHSSVKHMHSSVKYMHSSVKYIHSS----
+>tr|A0A7J7JY52|A0A7J7JY52_BUGNE/155-274 [subseq from] Uncharacterized protein OS=Bugula neritina OX=10212 GN=EB796_010783 PE=4 SV=1
+-----------------------------------------------------------------------------------------------------------------------------------------SSVKHMHSSVKYMHSSVKYIHSSVKYMHGSVKYMHSSVKHMHSSIKYMHRSVKYIHNSVKHMHSSVKYIHSSVKYMHNSVKYMHSSVKYMHSSVKHMHSSVKHMHNSVKHMHSSIKHMHS-----
+>tr|A2H1V3|A2H1V3_TRIVA/10-173 [subseq from] Uncharacterized protein (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_297960 PE=4 SV=1
+---------------------------------------------------------------------------------------------LHQGASSLLQSASSLHHAASSLQQSASSLHHAASSLDQDASSLQQSTSSLDQGASSLDQGASSLLQSTSSLQQSASSLLQSTSSLHQGASSLLQSTSSLQQSASSLLQSTSSLDQGASSLLQSTSSLDQDASSLHHAASSLDQDASSLDQDASSLDQGASSLHQ-----
+>tr|A2H1V3|A2H1V3_TRIVA/186-310 [subseq from] Uncharacterized protein (Fragment) OS=Trichomonas vaginalis OX=5722 GN=TVAG_297960 PE=4 SV=1
+--------------------------------------------------------------------------------------------------------------------------------LQSTSSLHQSASSLHQDASSL-QQSASSLLQSTSSLDQGASSLLQSTSSLDQDASSLHHAASSLDQDASSLDQDASSLDQGASSLHQDASSLQQSASSLLQSASSLQQSASYLHQSTSSLHHAASS--------
+>tr|A0A4Z2IRP7|A0A4Z2IRP7_9TELE/84-254 [subseq from] Uncharacterized protein OS=Liparis tanakae OX=230148 GN=EYF80_009215 PE=4 SV=1
+-------------------------------------------------------AINIEGLVKNIERQVKNIKRQVKDIEGLVKIIEGLVKNIEIQVKNIKRQVKNIEGLVKNIERQVKNIKRQVKNIEGLVKNIKGLVKNIEIQVKNIEGLVKNIERQVKNIEGLVKNIEGLVKNIKRQVKNIEGLVKNIEGLVKNIERQVTNIEQQVKNIEIQVKNIEIQVKN------------------------------------
+>tr|A0A6P5K7B5|A0A6P5K7B5_PHACI/22-67 [subseq from] beta-defensin 103A-like OS=Phascolarctos cinereus OX=38626 GN=LOC110207513 PE=4 SV=1
+------SGLLSRISSLICKVRKGKCRTIACTSKEEKIGTCSLGRRKCCRKKK------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

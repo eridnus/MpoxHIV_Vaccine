@@ -1,0 +1,6 @@
+Variant,MW_kDa,Instability,GRAVY,Cys_Count,QN_Ratio,Status
+Variant_1.fasta,30.21,40.82,-0.672,7,0.052,FAIL
+Variant_2.fasta,30.21,40.53,-0.672,7,0.052,FAIL
+Variant_3.fasta,30.21,40.82,-0.672,7,0.052,FAIL
+Variant_4.fasta,30.21,40.82,-0.672,7,0.052,FAIL
+Variant_5.fasta,30.21,40.16,-0.672,7,0.052,FAIL
